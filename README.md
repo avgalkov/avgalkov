@@ -23,8 +23,6 @@ If you also beginner, we can speak about study plan or some usefull resourses.
 ![git](https://github.com/avgalkov/avgalkov/blob/main/assets/git.png)&nbsp;&nbsp;&nbsp;
 ![powershell](https://github.com/avgalkov/avgalkov/blob/main/assets/powershell.png)
 
-<img src="https://github.com/avgalkov/avgalkov/blob/main/assets/git.png" width="50" height="50" padding-right = 10px/>
-<img src="https://github.com/avgalkov/avgalkov/blob/main/assets/git.png" width="50" height="50" padding-right = 10px/>
 
 ### *Follow me*:
 
