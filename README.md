@@ -11,16 +11,16 @@ If you also beginner, we can speak about study plan or some usefull resourses.
 
 ### *Languages and Tools I can use*:
 
-![sql](https://github.com/avgalkov/avgalkov/blob/main/assets/sql.png)&nbsp;
-![python](https://github.com/avgalkov/avgalkov/blob/main/assets/python.png)&nbsp;
-![superset](https://github.com/avgalkov/avgalkov/blob/main/assets/superset.png)&nbsp;
-![tableau](https://github.com/avgalkov/avgalkov/blob/main/assets/tableau.png)&nbsp;
-![redash](https://github.com/avgalkov/avgalkov/blob/main/assets/redash.png)&nbsp;
-![vsc](https://github.com/avgalkov/avgalkov/blob/main/assets/vsc.png)&nbsp;
-![jupyter](https://github.com/avgalkov/avgalkov/blob/main/assets/jupyter.png)&nbsp;
-![docker](https://github.com/avgalkov/avgalkov/blob/main/assets/docker.png)&nbsp;
-![postgres](https://github.com/avgalkov/avgalkov/blob/main/assets/postgresql.png)&nbsp;
-![git](https://github.com/avgalkov/avgalkov/blob/main/assets/git.png)&nbsp;
+![sql](https://github.com/avgalkov/avgalkov/blob/main/assets/sql.png)&nbsp;&nbsp;&nbsp;
+![python](https://github.com/avgalkov/avgalkov/blob/main/assets/python.png)&nbsp;&nbsp;&nbsp;
+![superset](https://github.com/avgalkov/avgalkov/blob/main/assets/superset.png)&nbsp;&nbsp;&nbsp;
+![tableau](https://github.com/avgalkov/avgalkov/blob/main/assets/tableau.png)&nbsp;&nbsp;&nbsp;
+![redash](https://github.com/avgalkov/avgalkov/blob/main/assets/redash.png)&nbsp;&nbsp;&nbsp;
+![vsc](https://github.com/avgalkov/avgalkov/blob/main/assets/vsc.png)&nbsp;&nbsp;&nbsp;
+![jupyter](https://github.com/avgalkov/avgalkov/blob/main/assets/jupyter.png)&nbsp;&nbsp;&nbsp;
+![docker](https://github.com/avgalkov/avgalkov/blob/main/assets/docker.png)&nbsp;&nbsp;&nbsp;
+![postgres](https://github.com/avgalkov/avgalkov/blob/main/assets/postgresql.png)&nbsp;&nbsp;&nbsp;
+![git](https://github.com/avgalkov/avgalkov/blob/main/assets/git.png)&nbsp;&nbsp;&nbsp;
 ![powershell](https://github.com/avgalkov/avgalkov/blob/main/assets/powershell.png)
 
 <img src="https://github.com/avgalkov/avgalkov/blob/main/assets/git.png" width="50" height="50" padding-right = 10px/>
