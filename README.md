@@ -11,17 +11,17 @@
 
 
 
-Header
+### Header
 
 
-Bio
+### Bio
 
 
-Languages and Tools
+### Languages and Tools
 
 ![sql](https://github.com/avgalkov/avgalkov/blob/main/assets/sql.png)
 ![python](https://github.com/avgalkov/avgalkov/blob/main/assets/python.png)
-![superset](https://github.com/avgalkov/avgalkov/blob/main/assets/superet.png)
+![superset](https://github.com/avgalkov/avgalkov/blob/main/assets/superset.png)
 ![tableau](https://github.com/avgalkov/avgalkov/blob/main/assets/tableau.png)
 ![redash](https://github.com/avgalkov/avgalkov/blob/main/assets/redash.png)
 ![vsc](https://github.com/avgalkov/avgalkov/blob/main/assets/vsc.png)
@@ -32,4 +32,10 @@ Languages and Tools
 ![powershell](https://github.com/avgalkov/avgalkov/blob/main/assets/powershell.png)
 
 Follow me
+
+[![](https://img.shields.io/badge/Telegram-<COLOR>?style=social&logo=telegram)](https://t.me/alexglkv)
+
+[![vk](https://img.shields.io/badge/Vkontakte-<COLOR>?style=social&logo=vk)](https://vk.com/galkov91)
+
+[![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)
 
