@@ -1,15 +1,16 @@
-### Hi there 👋
-My name is Aleksander, I'm a beginner data analyst!
+## Hi there 👋
+__________
+### My name is Aleksander, I'm a beginner data analyst!
 
 I prefer order and structure :)
-If you also beginner, we can speak about study plan or some usefull resourses.
+If you also beginner, we can speak about study plan or some usefull resourses for data analysts. Check my contacts 
 
-### *Now* :
+### Now :
 
-- I’m currently learning SQL, Python and data analysis tools
-- Looking for practice in this field
+- *I’m currently learning SQL and Python and also try to practice in using of different data analysis tools*
+- *Looking for a job in this fild*
 
-### *Languages and Tools I can use*:
+### What I can use:
 
 ![sql](https://github.com/avgalkov/avgalkov/blob/main/assets/sql.png)&nbsp;&nbsp;&nbsp;
 ![python](https://github.com/avgalkov/avgalkov/blob/main/assets/python.png)&nbsp;&nbsp;&nbsp;
@@ -23,12 +24,12 @@ If you also beginner, we can speak about study plan or some usefull resourses.
 ![git](https://github.com/avgalkov/avgalkov/blob/main/assets/git.png)&nbsp;&nbsp;&nbsp;
 ![powershell](https://github.com/avgalkov/avgalkov/blob/main/assets/powershell.png)
 
-<img src="https://github.com/avgalkov/avgalkov/blob/main/assets/git.png" width="50" height="50" padding-right = 10px/>
-<img src="https://github.com/avgalkov/avgalkov/blob/main/assets/git.png" width="50" height="50" padding-right = 10px/>
-
+______________________
 ### *Follow me*:
 
-[![](https://img.shields.io/badge/Telegram-<COLOR>?style=social&logo=telegram)](https://t.me/alexglkv)
-[![vk](https://img.shields.io/badge/Vkontakte-<COLOR>?style=social&logo=vk)](https://vk.com/galkov91)
-[![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)
+[![](https://img.shields.io/badge/Telegram-<COLOR>?style=social&logo=telegram)](https://t.me/alexglkv)&nbsp;&nbsp;&nbsp;
+[![vk](https://img.shields.io/badge/Vkontakte-<COLOR>?style=social&logo=vk)](https://vk.com/galkov91)&nbsp;&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)&nbsp;&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Stepik-<COLOR>?style=social&logo=appveyor)](https://stepik.org/users/537725888)&nbsp;&nbsp;&nbsp;
+
 
