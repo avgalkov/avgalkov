@@ -1,23 +1,15 @@
 ### Hi there 👋
+My name is Aleksander, I'm a beginner data analyst!
 
+I prefer order and structure :)
+If you also beginner, we can speak about study plan or some usefull resourses.
 
-- 🌱 I’m currently learning SQL, Python and data analysis tools
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Now :
 
+- I’m currently learning SQL, Python and data analysis tools
+- Looking for practice in this field
 
-
-### Header
-
-
-### Bio
-
-
-### Languages and Tools
+### Languages and Tools I can use:
 
 ![sql](https://github.com/avgalkov/avgalkov/blob/main/assets/sql.png)
 ![python](https://github.com/avgalkov/avgalkov/blob/main/assets/python.png)
@@ -31,11 +23,9 @@
 ![git](https://github.com/avgalkov/avgalkov/blob/main/assets/git.png)
 ![powershell](https://github.com/avgalkov/avgalkov/blob/main/assets/powershell.png)
 
-Follow me
+### Follow me
 
 [![](https://img.shields.io/badge/Telegram-<COLOR>?style=social&logo=telegram)](https://t.me/alexglkv)
-
 [![vk](https://img.shields.io/badge/Vkontakte-<COLOR>?style=social&logo=vk)](https://vk.com/galkov91)
-
 [![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)
 
