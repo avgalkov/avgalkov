@@ -23,7 +23,7 @@ Bio
 
 
 Languages and Tools
-
+![python](https://github.com/avgalkov/avgalkov/blob/main/assets/icons8-python-100.png)
 
 Follow me
 
