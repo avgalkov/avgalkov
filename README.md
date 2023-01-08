@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 __________
 ### My name is Aleksander, I'm a beginner data analyst!
 
