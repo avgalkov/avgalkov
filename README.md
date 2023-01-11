@@ -32,4 +32,8 @@ ______________________
 [![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Stepik-<COLOR>?style=social&logo=appveyor)](https://stepik.org/users/537725888)&nbsp;&nbsp;&nbsp;
 
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avgalkov)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/avgalkov)
