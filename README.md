@@ -1,6 +1,5 @@
-## Hi there👋 
-## My name is Aleksander, I'm a data analyst!
-__________
+## Hi there👋 My name is Aleksander, I'm a data analyst!
+
 
 I prefer order and structure :)
 If you also beginner, we can speak about study plan or some usefull resourses for data analysts. Check my contacts 
