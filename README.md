@@ -1,9 +1,18 @@
-## Hi there 👋 
+## Hi there👋 
+## My name is Aleksander, I'm a data analyst!
 __________
-### My name is Aleksander, I'm a beginner data analyst!
 
 I prefer order and structure :)
 If you also beginner, we can speak about study plan or some usefull resourses for data analysts. Check my contacts 
+
+### Examples of my work :
+* [FIFA 2022 World Cup research](https://github.com/avgalkov/Kaggle-research/blob/main/fifa-2022-world-cup-research.ipynb)&nbsp;&nbsp;&nbsp;
+
+* [E-commerce analysis project](https://github.com/avgalkov/Analytic-projects/blob/main/E-commerce%20analysis%20project/E-commerse%20project.ipynb)&nbsp;&nbsp;&nbsp;
+
+* [Social network app dashboards](https://github.com/avgalkov/Analytic-projects/tree/main/social%20app)&nbsp;&nbsp;&nbsp;
+
+* [Pandas researches](https://github.com/avgalkov/Analytical-practice/tree/main/Pandas%20research)&nbsp;&nbsp;&nbsp;
 
 ### Now :
 
@@ -31,6 +40,7 @@ ______________________
 [![vk](https://img.shields.io/badge/Vkontakte-<COLOR>?style=social&logo=vk)](https://vk.com/galkov91)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Facebook-<COLOR>?style=social&logo=facebook)](https://www.facebook.com/)&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/Stepik-<COLOR>?style=social&logo=appveyor)](https://stepik.org/users/537725888)&nbsp;&nbsp;&nbsp;
+[![](https://img.shields.io/badge/Kaggle-<COLOR>?style=social&logo=kaggle)](https://www.kaggle.com/aleksandergalkov)&nbsp;&nbsp;&nbsp;
 
 <br />
 
