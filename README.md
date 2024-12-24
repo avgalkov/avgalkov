@@ -1,21 +1,16 @@
 ## Hi there👋
 
-
-Order and structure :)
-.
+### Now :
+Data-analyst | 4lapy.ru
 
 ### Examples of my work :
 
-* [Spaceship titanic prediction](https://github.com/avgalkov/collab-notebooks/blob/main/spaceship_titanic_second_pred.ipynb)&nbsp;&nbsp;&nbsp;
 * [Used car prices prediction](https://github.com/avgalkov/collab-notebooks/blob/main/human_learning.ipynb)&nbsp;&nbsp;&nbsp;
 * [FIFA 2022 World Cup research](https://github.com/avgalkov/Kaggle-research/blob/main/fifa-2022-world-cup-research.ipynb)&nbsp;&nbsp;&nbsp;
 * [E-commerce analysis project](https://github.com/avgalkov/Analytic-projects/blob/main/E-commerce%20analysis%20project/E-commerse%20project.ipynb)&nbsp;&nbsp;&nbsp;
 * [Social network app dashboards](https://github.com/avgalkov/Analytic-projects/tree/main/social%20app)&nbsp;&nbsp;&nbsp;
 * [Analysis with pandas](https://github.com/avgalkov/Analytical-practice/tree/main/Pandas%20research)&nbsp;&nbsp;&nbsp;
 
-### Now :
-
-Data-analyst | 4lapy.ru
 
 ### What I can use:
 
