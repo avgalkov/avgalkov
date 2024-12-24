@@ -1,8 +1,8 @@
-## Hi there👋 My name is Aleksander, I'm a data analyst!
+## Hi there👋
 
 
-I prefer order and structure :)
-If you also beginner, we can speak about study plan or some usefull resourses for data analysts.
+Order and structure :)
+.
 
 ### Examples of my work :
 
@@ -15,8 +15,7 @@ If you also beginner, we can speak about study plan or some usefull resourses fo
 
 ### Now :
 
-- *I’m currently learning SQL and Python and also try to practice in using of different data analysis tools*
-- *Looking for a job in this fild*
+Data-analyst | 4lapy.ru
 
 ### What I can use:
 
